@@ -50,6 +50,7 @@ ACTIVE QUESTS:
 <br>
 [Main_Quest] Obtain BSc Honors Computer Science
 [World_Quest] Unlock industry tech internship
+[Side_Quest] Build ML Compiler & CUDA Kernel Optimization Framework
 [Side_Quest] Build Neural-Accelerated Ray Tracer
 [Side_Quest] Acquire AWS Certified Developer Associate
 <br><br>
